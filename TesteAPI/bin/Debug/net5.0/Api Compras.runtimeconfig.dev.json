@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ytalo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ytalo\\.nuget\\packages"
+    ]
+  }
+}

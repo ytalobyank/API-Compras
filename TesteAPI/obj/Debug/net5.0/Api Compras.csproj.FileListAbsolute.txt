@@ -1,0 +1,38 @@
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Api Compras.exe
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Api Compras.deps.json
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Api Compras.runtimeconfig.json
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Api Compras.runtimeconfig.dev.json
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Api Compras.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\ref\Api Compras.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Api Compras.pdb
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Dapper.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Dapper.Contrib.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.csprojAssemblyReference.cache
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.AssemblyInfoInputs.cache
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.AssemblyInfo.cs
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.csproj.CoreCompileInputs.cache
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\staticwebassets\Api Compras.StaticWebAssets.Manifest.cache
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\staticwebassets\Api Compras.StaticWebAssets.xml
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\scopedcss\bundle\Api Compras.styles.css
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.RazorTargetAssemblyInfo.cache
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.csproj.CopyComplete
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\ref\Api Compras.dll
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.pdb
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\obj\Debug\net5.0\Api Compras.genruntimeconfig.cache
+C:\Users\ytalo\source\repos\TesteAPI\TesteAPI\bin\Debug\net5.0\MySqlConnector.dll
